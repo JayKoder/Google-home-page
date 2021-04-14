@@ -1,3 +1,2 @@
 # Google-page
- Google home page clone
- http://127.0.0.1:5500/index.html
+ Google home page [here](http://127.0.0.1:5500/index.html)
