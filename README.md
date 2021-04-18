@@ -1,2 +1,2 @@
 # Google-page
- Google home page [here](http://127.0.0.1:5500/index.html)
+ Google home page [here](https://jaykoder.github.io/Google-home-page/)
